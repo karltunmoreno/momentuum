@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/momentuum/static/css/main.8832ea63.css",
+    "main.js": "/momentuum/static/js/main.6cb10be3.js",
+    "static/js/787.cc27a1b8.chunk.js": "/momentuum/static/js/787.cc27a1b8.chunk.js",
+    "static/media/0.jpg": "/momentuum/static/media/0.aae354cffe126735c6a7.jpg",
+    "static/media/2.jpg": "/momentuum/static/media/2.73361bef8e26b971e197.jpg",
+    "static/media/1.jpg": "/momentuum/static/media/1.863e6935e38396aecb5d.jpg",
+    "static/media/3.jpg": "/momentuum/static/media/3.dd376ef9a77aa73dbb1b.jpg",
+    "static/media/4.jpg": "/momentuum/static/media/4.3b0c40e1612f92a7c758.jpg",
+    "static/media/cover-image.jpg": "/momentuum/static/media/cover-image.533ae8f6f0bf6c415f11.jpg",
+    "index.html": "/momentuum/index.html",
+    "main.8832ea63.css.map": "/momentuum/static/css/main.8832ea63.css.map",
+    "main.6cb10be3.js.map": "/momentuum/static/js/main.6cb10be3.js.map",
+    "787.cc27a1b8.chunk.js.map": "/momentuum/static/js/787.cc27a1b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8832ea63.css",
+    "static/js/main.6cb10be3.js"
+  ]
+}
