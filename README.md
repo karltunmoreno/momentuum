@@ -9,7 +9,7 @@ ________________________________________________________________________________
 * As a user, I can see the About section.
 
 * As a user, I can see the Navigation menu.
-Title: Create the Photo Gallery
+Title: Photo Gallery
 
 * As a user, I can click on a category and view the photos associated with the selected category.
 
