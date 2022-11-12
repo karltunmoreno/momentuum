@@ -2,7 +2,7 @@
 PHOTOPORT
 
 
-![image](https://user-images.githubusercontent.com/95730440/187340060-96a4e965-a563-4426-bf11-43b30bbf8c57.png)
+![image](https://karltunmoreno.github.io/My-Portfolio/assets/images/momentuumpic.jpg)
 
 
 _____________________________________________________________________________________________________________________________________________________________________
